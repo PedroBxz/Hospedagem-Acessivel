@@ -1,0 +1,3 @@
+O trabalho foi feito com base no cenário de hospedagem do projeto traveller
+
+Foram inseridas ferramentas para auxiliar pessoas com baixa visão, ou que apenas se comunicam atravez de libras.
